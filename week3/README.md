@@ -13,6 +13,8 @@ Introduction the purpose and structure of the scientific literature, including t
 
 Students were asked to spend some time searching for papers related to their semester-long project topic. Before the next class, they were expected to submit the NASA ADS link to one journal article and one review article, so I could review their choices and make suggestions for changes if needed.
 
+Students were also asked to install Miniconda before the next class, and to come to office hours if they experienced any issues.
+
 ## Notes
 
 - The activity went well! Most students had some familiarity with the scientific method, and were able to piece together the paper easily
