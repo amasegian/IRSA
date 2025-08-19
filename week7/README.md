@@ -11,7 +11,7 @@ Introduce students to the Gaia mission and have them play with real Gaia data.
 
 ## Assignments
 
-Students were expected to complete and submit Milestone 1 by the end of the day, then begin working on Milestone 2.
+Students were expected to complete and submit Milestone 1 by the end of the day, then begin working on Milestone 2. I also asked them to complete a short, anonymous [mid-course review survey](../mid_course_review.pdf) to provide feedback on the course so far, so that I could make adjustments for the rest of the semester.
 
 ## Notes
 
