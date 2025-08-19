@@ -8,6 +8,10 @@ Introduce students to career paths in astronomy (both academic and non-academic)
 - 🛠️ **Activity:** [Reflection on goals for the semester and beyond](./week2_reflection.pdf) - *Students were asked to complete the attached Google Form. I told them that their responses would not be graded, and that I would read them in advance of our 1-1 meeting.*
 - 💬 **Discussion:** [Exploring astronomy subfields](./NOTES_astronomy_subfields.pdf)
 
+## Assignments
+
+Students were asked to think about which astronomy subfields they found most interesting, in preparation for selecting the topic for their semester-long projects.
+
 ## Notes
 
 - I was away this week for an observing run, so my co-teachers led the class
