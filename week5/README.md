@@ -1,6 +1,6 @@
 # Week 5
 
-Continue introducing coding in Python.
+Continue introducing coding in Python and discuss how to get involved in research as an undergrad.
 
 ## Schedule
 
