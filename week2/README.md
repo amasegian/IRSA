@@ -5,7 +5,7 @@ Introduce students to career paths in astronomy (both academic and non-academic)
 ## Schedule
 
 - 📝 **Presentation:** [Academic and non-academic career paths](./NOTES_career_paths_in_astronomy.pdf)
-- 🛠️ **Activity:** [Reflection on goals for the semester and beyond](./week2_reflection.pdf)
+- 🛠️ **Activity:** [Reflection on goals for the semester and beyond](./week2_reflection.pdf) - *Students were asked to complete the attached Google Form. I told them that their responses would not be graded, and that I would read them in advance of our 1-1 meeting.*
 - 💬 **Discussion:** [Exploring astronomy subfields](./NOTES_astronomy_subfields.pdf)
 
 ## Notes
