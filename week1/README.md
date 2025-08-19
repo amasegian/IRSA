@@ -8,6 +8,10 @@ Welcome students to the course! Introduce astronomy research at a general level 
 - 📝 **Presentation:** [What is astronomy research?](./what_is_astronomy_research.pdf)
 - 🛠️ **Activity:** [Making a subfield map](./subfield_map.jpeg) - *I asked students what areas of astronomy research they were familiar with. Together, we created a "mind map" of astronomy subfields on the board.*
 
+## Assignments
+
+None.
+
 ## Notes
 
 - We ended slightly early
