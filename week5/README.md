@@ -5,7 +5,7 @@ Continue introducing coding in Python and discuss how to get involved in researc
 ## Schedule
 
 - 📝 **Presentation:** [Doing research as an undergrad](./research_as_an_undergrad.pdf)
-- 📝 **Presentation:** [Intro to Python 2](./intro_to_coding_2.pdf)
+- 📝 **Presentation:** [Intro to Python 2](./intro_to_coding_2.pdf) - *I split-screened the slides with a text editor and coded live so students could follow along.*
 - 🕑 **Coworking time:** Milestone 1
 
 ## Assignments
