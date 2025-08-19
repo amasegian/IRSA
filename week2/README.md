@@ -10,7 +10,7 @@ Introduce students to career paths in astronomy (both academic and non-academic)
 
 ## Assignments
 
-Students were asked to think about which astronomy subfields they found most interesting, in preparation for selecting the topic for their semester-long projects.
+Students were asked to think about which astronomy subfields they found most interesting, in preparation for selecting the topic for their semester-long projects. Before the next class, they  submitted a Google Form to indicate their top three choices for the semester-long project (or suggesting their own project idea).
 
 ## Notes
 
